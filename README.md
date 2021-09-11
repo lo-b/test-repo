@@ -9,10 +9,10 @@ repo in `$HOME`.
 
 # Contents
 
-1. [Getting Started](#Getting-Started)
-    1. [Neovim](#Getting-Started#Neovim)
-        1. [General](#Getting-Started#Neovim#General)
-        2. [Intellisense](#Getting-Started#Neovim#Intellisense)
+1. [Getting Started](#Getting_Started)
+    1. [Neovim](#Getting_Started#Neovim)
+        1. [General](#Getting_Started#Neovim#General)
+        2. [Intellisense](#Getting_Started#Neovim#Intellisense)
 2. [Usage](#Usage)
 
 # Getting Started
