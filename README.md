@@ -9,7 +9,7 @@ repo in `$HOME`.
 
 # Contents
 
-1. [Getting Started](#Getting_Started)
+1. [Getting Started](#getting-started)
     1. [Neovim](#neovim)
         1. [General](#general)
         2. [Intellisense](#intellisense)
